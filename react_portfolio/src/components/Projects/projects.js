@@ -63,7 +63,7 @@ class Projects extends Component {
                     </Cell>
                     <Cell col ={12}>
                         <Card shadow={0} style={{width: '512px', margin: 'auto'}}>
-                        <CardTitle style={{color: '#000', height: '176px', background: 'url(https://i.ibb.co/5hrf5B3/2020-07-19-19-13-49.png) center / cover'}}>Note Taker</CardTitle>
+                        <CardTitle style={{color: '#000', height: '306px', background: 'url(https://i.ibb.co/5hrf5B3/2020-07-19-19-13-49.png) center / cover'}}>Note Taker</CardTitle>
                         <CardText>
                         Note Taker is an application that can be used to write, save, and delete notes. This application uses an express backend and save and retrieve note data from a JSON file.
                         </CardText>
@@ -73,7 +73,7 @@ class Projects extends Component {
                         </a>
                         </CardActions>
                         <CardActions border>
-                        <a href="https://www.linkedin.com/in/javay-porter" rel="noopener noreferrer" target="_blank">   
+                        <a href=" https://fast-fortress-39105.herokuapp.com/" rel="noopener noreferrer" target="_blank">   
                         <Button colored>Deployed App</Button>
                         </a>
                         </CardActions>
@@ -105,7 +105,7 @@ class Projects extends Component {
                     </Cell>
                     <Cell col ={12}>
                         <Card shadow={0} style={{width: '512px', margin: 'auto'}}>
-                        <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Budget App</CardTitle>
+                        <CardTitle style={{color: '#000', height: '306px', background: 'url(https://i.ibb.co/xfTVwzq/2020-07-19-19-24-10.png) center / cover'}}>Budget App</CardTitle>
                         <CardText>
                         Budget App allows users to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online. Offline Functionality:
 
@@ -142,7 +142,7 @@ class Projects extends Component {
                         </a>
                         </CardActions>
                         <CardActions border>
-                        <a href="https://www.linkedin.com/in/javay-porter" rel="noopener noreferrer" target="_blank">   
+                        <a href="https://nameless-bastion-84768.herokuapp.com/" rel="noopener noreferrer" target="_blank">   
                         <Button colored>Deployed App</Button>
                         </a>
                         </CardActions>
