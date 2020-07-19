@@ -8,6 +8,11 @@ class Contact extends Component {
                 <Grid className="contact-grid">
                     <Cell col={6}>
                         <h2>Javay Porter</h2>
+                        <img
+                        src="https://i.ibb.co/80P184y/IMG-0210.jpg"
+                        alt="javay"
+                        className="contact-img"
+                        />
                     </Cell>
                     <Cell col={6}>
                         <h2>Contact Information</h2>
