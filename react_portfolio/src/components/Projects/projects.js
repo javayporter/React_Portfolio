@@ -31,7 +31,7 @@ class Projects extends Component {
                         </a>
                         </CardActions>
                         <CardActions border>
-                        <a href="https://www.linkedin.com/in/javay-porter" rel="noopener noreferrer" target="_blank">   
+                        <a href="https://jpeat-da-burger.herokuapp.com/" rel="noopener noreferrer" target="_blank">   
                         <Button colored>Deployed App</Button>
                         </a>
                         </CardActions>
@@ -52,7 +52,7 @@ class Projects extends Component {
                         </a>
                         </CardActions>
                         <CardActions border>
-                        <a href="https://www.linkedin.com/in/javay-porter" rel="noopener noreferrer" target="_blank">   
+                        <a href="https://jpteam-generator.herokuapp.com/" rel="noopener noreferrer" target="_blank">   
                         <Button colored>Deployed App</Button>
                         </a>
                         </CardActions>
@@ -94,7 +94,7 @@ class Projects extends Component {
                         </a>
                         </CardActions>
                         <CardActions border>
-                        <a href="https://www.linkedin.com/in/javay-porter" rel="noopener noreferrer" target="_blank">   
+                        <a href="https://jpsuer-directory.herokuapp.com/" rel="noopener noreferrer" target="_blank">   
                         <Button colored>Deployed App</Button>
                         </a>
                         </CardActions>
@@ -121,7 +121,7 @@ class Projects extends Component {
                         </a>
                         </CardActions>
                         <CardActions border>
-                        <a href="https://www.linkedin.com/in/javay-porter" rel="noopener noreferrer" target="_blank">   
+                        <a href="https://jp-budget-app.herokuapp.com/" rel="noopener noreferrer" target="_blank">   
                         <Button colored>Deployed App</Button>
                         </a>
                         </CardActions>
