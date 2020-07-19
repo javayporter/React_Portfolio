@@ -63,7 +63,7 @@ class Projects extends Component {
                     </Cell>
                     <Cell col ={12}>
                         <Card shadow={0} style={{width: '512px', margin: 'auto'}}>
-                        <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Note Taker</CardTitle>
+                        <CardTitle style={{color: '#000', height: '176px', background: 'url(https://i.ibb.co/5hrf5B3/2020-07-19-19-13-49.png) center / cover'}}>Note Taker</CardTitle>
                         <CardText>
                         Note Taker is an application that can be used to write, save, and delete notes. This application uses an express backend and save and retrieve note data from a JSON file.
                         </CardText>
