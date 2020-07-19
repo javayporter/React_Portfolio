@@ -15,6 +15,7 @@ class LandingPage extends Component {
                         
                         <div className="banner-text">
                             <h1>Full Stack Web Developer</h1>
+                            <h2>JAVAY PORTER</h2>
                             <hr/>
                             <p>HTML/CSS | Bootstrap | Javascript | Node.js | React | MongoDB</p>
                             <div className="social-links">
