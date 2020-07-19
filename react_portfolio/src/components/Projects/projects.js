@@ -19,7 +19,7 @@ class Projects extends Component {
                 <Grid>
                     <Cell col ={12}>
                         <Card shadow={0} style={{width: '512px', margin: 'auto'}}>
-                        <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Eat-Da-Burger</CardTitle>
+                        <CardTitle style={{color: '#fff', height: '306px', background: 'url(https://i.ibb.co/T0Zh2hJ/2020-07-18-21-24-17.png) center / cover'}}>Eat-Da-Burger</CardTitle>
                         <CardText>
                         <p>Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.</p>
                         <p>Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.</p>
@@ -42,7 +42,7 @@ class Projects extends Component {
                     </Cell>
                     <Cell col ={12}>
                         <Card shadow={0} style={{width: '512px', margin: 'auto'}}>
-                        <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Team Generator</CardTitle>
+                        <CardTitle style={{color: '#000', height: '306px', background: 'url(https://i.ibb.co/T8KybnC/2020-07-18-19-35-36.png) center / cover'}}>Team Generator</CardTitle>
                         <CardText>
                         Team Generator is a software engineering team generator command line application. The application prompts the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns.
                         </CardText>
@@ -84,7 +84,7 @@ class Projects extends Component {
                     </Cell>
                     <Cell col ={12}>
                         <Card shadow={0} style={{width: '512px', margin: 'auto'}}>
-                        <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>User Directory</CardTitle>
+                        <CardTitle style={{color: '#000', height: '306px', background: 'url(https://i.ibb.co/VVc2dMZ/2020-07-18-16-02-30-copy.png) center / cover'}}>User Directory</CardTitle>
                         <CardText>
                         React Employee Directory
                         </CardText>
@@ -134,11 +134,10 @@ class Projects extends Component {
                         <Card shadow={0} style={{width: '512px', margin: 'auto'}}>
                         <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Fitness Tracker</CardTitle>
                         <CardText>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Mauris sagittis pellentesque lacus eleifend lacinia...
+                        Awesome Fitness Tracker
                         </CardText>
                         <CardActions border>
-                        <a href="https://www.linkedin.com/in/javay-porter" rel="noopener noreferrer" target="_blank">   
+                        <a href="https://github.com/javayporter/Fitness_Tracker" rel="noopener noreferrer" target="_blank">   
                         <Button colored>GitHub Repo</Button>
                         </a>
                         </CardActions>
